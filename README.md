@@ -23,6 +23,7 @@ Each folder corresponds to a course section and contains a Jupyter notebook impl
 - Plotly / Cufflinks
 - Geographical Plotting
 - Scikit-learn
+- Tensorflow
 
 ## 🚀 How to Run
 1. Clone the repository
