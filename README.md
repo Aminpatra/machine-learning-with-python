@@ -4,10 +4,13 @@ This repository contains hands-on machine learning projects implemented while fo
 
 ## 📚 Topics Covered
 - Linear Regression
+- Logistic Regression
 - K Nearest Neighbors
+- K-Means Clustering
 - Decision Trees and Random Forests
 - Support Vector Machines
-- K-Means Clustering
+- Principal Component Analysis
+- Recommender Systems
 - Natural Language Processing
 - Neural Nets and Deep learning
 - Big Data and Spark with Python
