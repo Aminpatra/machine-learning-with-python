@@ -1,5 +1,12 @@
 # Machine Learning with Python – Udemy Projects
 
+
+<p align="center">
+  <img src="certificate.jpg" width="500"/>
+</p>
+
+
+
 This repository contains hands-on machine learning projects implemented while following a Udemy course on Machine Learning with Python.
 
 ## 📚 Topics Covered
